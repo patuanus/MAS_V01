@@ -1,0 +1,12 @@
+Vtb_gvu_vrf_logical___024root__1.o: \
+  /Users/kendrick/Documents/D/fpt/test_rtl/gvu/build/verilator_vrf/Vtb_gvu_vrf_logical__pch.h \
+  /opt/homebrew/Cellar/verilator/5.048/share/verilator/include/verilated.h \
+  /opt/homebrew/Cellar/verilator/5.048/share/verilator/include/verilated_config.h \
+  /opt/homebrew/Cellar/verilator/5.048/share/verilator/include/verilatedos.h \
+  /opt/homebrew/Cellar/verilator/5.048/share/verilator/include/verilated_types.h \
+  /opt/homebrew/Cellar/verilator/5.048/share/verilator/include/verilated_funcs.h \
+  /Users/kendrick/Documents/D/fpt/test_rtl/gvu/build/verilator_vrf/Vtb_gvu_vrf_logical__Syms.h \
+  /Users/kendrick/Documents/D/fpt/test_rtl/gvu/build/verilator_vrf/Vtb_gvu_vrf_logical.h \
+  /Users/kendrick/Documents/D/fpt/test_rtl/gvu/build/verilator_vrf/Vtb_gvu_vrf_logical___024root.h \
+  /opt/homebrew/Cellar/verilator/5.048/share/verilator/include/verilated_timing.h \
+  Vtb_gvu_vrf_logical___024root__1.cpp Vtb_gvu_vrf_logical__pch.h
